@@ -4,7 +4,7 @@ import time
 
 TOKEN = os.environ['TELEGRAM_TOKEN']
 bot = telebot.TeleBot(TOKEN)
-TARGET_ID = "@Ai1t_src1Bot" 
+TARGET_ID = "-1003926389516" 
 
 BASE_URL = "https://t.me/pw_neev_2025_26/"
 link_number = 4475
